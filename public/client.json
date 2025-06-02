@@ -1,65 +1,76 @@
 {
-  "siteTitle": "BizBud Template",
-  "logoUrl": "/logo.png",
+  "siteTitle": "",
+  "logoUrl": "/images/logo.png",
   "hero": {
-    "headline": "Launch Your Business Online Today",
-    "subheadline": "Get a modern, mobile-friendly website tailored for your small business — fast and affordable.",
-    "ctaText": "Get Started",
+    "headline": "Fast & Reliable Mac & PC Repairs",
+    "subheadline": "From virus removal to hardware upgrades, we’re your one-stop IT repair service in Milton Keynes.",
+    "ctaText": "Call Now",
     "ctaLink": "#contact"
   },
   "about": {
-    "title": "About Us",
-    "description": "BizBud helps small businesses get online with beautiful, simple websites. Whether you're a baker, a cleaner, or a local service provider, we make your business look good online.",
+    "title": "About 786 Computers",
+    "description": "We offer expert repairs and IT support for both Mac and PC systems. Whether you're facing slow performance, a blue screen, or a virus issue — we've got you covered. Based in Stony Stratford, we also offer home visits across Milton Keynes.",
     "image": "/images/about.png"
   },
   "services": {
-    "title": "What We Offer",
+    "title": "Our Services",
     "items": [
-      { "title": "Professional Website", "description": "Sleek, responsive, and SEO-ready site tailored to your business." },
-      { "title": "Custom Domain Setup", "description": "Get your own .co.uk or .com with email address setup too." },
-      { "title": "Fast Turnaround", "description": "We'll have your site live within 48 hours of final approval." }
+      { "title": "PC Running Slow", "description": "Performance diagnostics and optimization." },
+      { "title": "Blue Screen & Startup Issues", "description": "Quick diagnosis and system recovery." },
+      { "title": "Virus Removal", "description": "Thorough malware detection and cleanup." },
+      { "title": "Data Recovery & Backup", "description": "Secure your data and recover lost files." },
+      { "title": "RAM & Hard Disk Replacement", "description": "Upgrade or replace your system hardware." },
+      { "title": "Windows Re-installation", "description": "Fresh installs with all necessary drivers." },
+      { "title": "Network Setup", "description": "Home or office Wi-Fi and network configuration." },
+      { "title": "Software Upgrades", "description": "OS and application updates." }
     ]
   },
   "features": {
     "title": "Why Choose Us?",
     "items": [
-      { "icon": "RocketLaunchIcon", "title": "Fast Setup", "description": "From draft to live in under 2 days." },
-      { "icon": "DevicePhoneMobileIcon", "title": "Mobile First", "description": "Looks perfect on any device." },
-      { "icon": "CogIcon", "title": "Easy Updates", "description": "Change your content with one message." }
+      { "icon": "BoltIcon", "title": "Fast Service", "description": "Same-day repairs available on most jobs." },
+      { "icon": "WrenchScrewdriverIcon", "title": "All Hardware & Software", "description": "We support everything from RAM to routers." },
+      { "icon": "HomeModernIcon", "title": "We Come to You", "description": "Serving Stony Stratford & Milton Keynes at your doorstep." }
     ]
   },
   "gallery": {
-    "title": "Gallery",
+    "title": "Our Work",
     "images": [
-      "/images/gallery/dog1.jpg",
-      "/images/gallery/dog2.jpg",
-      "/images/gallery/dog3.jpg",
-      "/images/gallery/dog4.jpg",
-      "/images/gallery/dog5.jpg",
-      "/images/gallery/dog6.jpg"
+      "/images/gallery/pc1.png",
+      "/images/gallery/pc2.webp",
+      "/images/gallery/pc3.jpeg"
     ]
   },
   "testimonials": {
-    "title": "Happy Customers",
+    "title": "What Customers Say",
     "quotes": [
-      { "name": "Sarah the Baker", "quote": "BizBud made my bakery look amazing online. Orders have doubled!", "image": "/images/sarah.png" },
-      { "name": "Mike's Mowing", "quote": "I didn't think I needed a website — now I get more calls than ever.", "image": "/images/mike.png" }
+      {
+        "name": "A Local Customer",
+        "quote": "Fixed my laptop the same day! Really friendly and explained everything clearly.",
+        "image": "/images/sarah.png"
+      },
+      {
+        "name": "Business Client",
+        "quote": "They got our office PCs back up and running within hours. Lifesaver!",
+        "image": "/images/mike.png"
+      }
     ]
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "FAQ",
     "items": [
-      { "question": "How much does it cost?", "answer": "We charge a simple £250 for 12 months, or £25/month." },
-      { "question": "Can I update my site later?", "answer": "Yes! You can email us changes, or use your login portal." }
+      { "question": "Do you offer home visits?", "answer": "Yes — we’re based in Stony Stratford and cover all of Milton Keynes." },
+      { "question": "Can you fix Apple devices?", "answer": "Yes — we handle both Macs and PCs." },
+      { "question": "How much does a repair cost?", "answer": "Prices vary, but we aim to keep it affordable. Call us for a quick quote!" }
     ]
   },
   "social": {
-    "facebook": "https://facebook.com/yourbizbud",
-    "instagram": "https://instagram.com/yourbizbud"
+    "facebook": ""
   },
   "contact": {
-    "title": "Get In Touch",
-    "description": "Ready to get started? Drop us a message and we'll set up your demo site.",
-    "email": "hello@bizbud.co.uk"
+    "title": "Contact Us",
+    "description": "Need help fast? Call, email, or send us a message to get started.",
+    "email": "786computersmk@gmail.com",
+    "phone": "07557652864"
   }
 }
